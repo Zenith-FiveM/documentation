@@ -1,7 +1,7 @@
 zenith:
     name: Zenith Team
     title: Building the Zenith framework
-    url: /blog/authors/zenith
+    page: true
     image_url: https://github.com/Zenith-FiveM.png
     socials:
         github: Zenith-FiveM
@@ -9,7 +9,7 @@ zenith:
 luvvsum:
     name: Damian (LuvvSum)
     title: Founder & Lead Developer
-    url: /blog/authors/luvvsum
+    page: true
     image_url: https://github.com/LuvvSumDev.png
     email: luvvsum@aethrastudios.com
     socials:
