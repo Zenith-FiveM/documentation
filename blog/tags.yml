@@ -1,0 +1,14 @@
+announcement:
+    label: Announcement
+    permalink: /announcement
+    description: News and updates from the Zenith team.
+
+release:
+    label: Release
+    permalink: /release
+    description: Release notes and version updates.
+
+devlog:
+    label: Devlog
+    permalink: /devlog
+    description: Behind-the-scenes updates on Zenith's development.
